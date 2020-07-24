@@ -6,7 +6,6 @@ This project was devoloped fo the curricular unit Projeto 4 and tries to solve t
 * Python
 * TensorFlow 2
 * Flask
-
 * C#
 * Unity3D
 

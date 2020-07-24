@@ -4,9 +4,10 @@ This project was devoloped fo the curricular unit Projeto 4 and tries to solve t
 
 ## Tools and Languages
 * Python
-** TensorFlow 2
-** Flask
+* TensorFlow 2
+* Flask
+
 * C#
-** Unity3D
+* Unity3D
 
 ## Screenshots
